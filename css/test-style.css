@@ -1,0 +1,8 @@
+.example-block{
+    height: 400px;
+    widows: 100%;
+    margin: 30px;
+    box-shadow: 2px 2px 10px #000;
+    background: url(../img/%D0%BD%D0%BE%D1%83%D1%82.png) bottom/auto 60px no-repeat local, url(../img/фотка.png) center/auto 200px no-repeat local;
+    
+}
